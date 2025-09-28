@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fff1b85ac4d85e54",
+        "id": "3e61fda6b0943975",
         "type": "tabs",
         "children": [
           {
-            "id": "dace961bca2679d6",
+            "id": "cc2e0b980e5aab44",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/obsidian-completr/scanned_words.txt",
+                "bFile": ".obsidian/plugins/obsidian-completr/scanned_words.txt",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: scanned_words.txt"
             }
           }
         ]
@@ -29,6 +33,7 @@
       {
         "id": "d0072e64f34afec1",
         "type": "tabs",
+        "dimension": 65.09240246406571,
         "children": [
           {
             "id": "8a09c4c0fb61a11d",
@@ -76,8 +81,27 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9e2a0e0dc45c3e2a",
+        "type": "tabs",
+        "dimension": 34.90759753593429,
+        "children": [
+          {
+            "id": "fea21c913eda6b44",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -146,13 +170,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           },
           {
@@ -161,8 +184,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -176,13 +199,13 @@
             }
           },
           {
-            "id": "fea21c913eda6b44",
+            "id": "759cb491e4581698",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "review-queue-list-view",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -209,13 +232,21 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8a09c4c0fb61a11d",
+  "active": "cc2e0b980e5aab44",
   "lastOpenFiles": [
+    "Daily/2025-09-28.md",
+    "Literature",
+    "Map Of Content",
+    "Archive",
+    "Daily",
+    "Permanent",
+    "Fleeting",
+    "Resources",
+    "Areas",
+    "Projects",
     "Test/Test.md",
     "Books",
-    "School",
     "Test/Untitled.md",
-    "Test",
     "Welcome.md"
   ]
 }

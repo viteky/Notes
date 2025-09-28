@@ -3,7 +3,7 @@
     "flashcardTags": [
       "#flashcards"
     ],
-    "convertFoldersToDecks": true,
+    "convertFoldersToDecks": false,
     "burySiblingCards": false,
     "randomizeCardOrder": null,
     "flashcardCardOrder": "DueFirstRandom",
@@ -33,7 +33,7 @@
     "maxNDaysNotesReviewQueue": 365,
     "showRibbonIcon": true,
     "showStatusBar": true,
-    "initiallyExpandAllSubdecksInTree": false,
+    "initiallyExpandAllSubdecksInTree": true,
     "showContextInCards": true,
     "showIntervalInReviewButtons": true,
     "flashcardHeightPercentage": 80,
@@ -41,7 +41,7 @@
     "flashcardEasyText": "Easy",
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
-    "reviewButtonDelay": 0,
+    "reviewButtonDelay": 400,
     "openViewInNewTab": false,
     "algorithm": "SM-2-OSR",
     "baseEase": 250,
