@@ -194,12 +194,22 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
             "id": "759cb491e4581698",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "7866d15a12651a34",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -209,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -232,7 +242,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fa612205a0824c27",
+  "active": "7866d15a12651a34",
   "lastOpenFiles": [
     "Hello.md",
     "Daily/2025-09-28.md",
