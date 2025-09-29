@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "C++",
-      "path": "Map Of Content/C++.md"
+      "basename": "Daily Note (TEMPLATE)",
+      "path": "Meta/Templates/Daily Note (TEMPLATE).md"
+    },
+    {
+      "basename": "2025-09-29",
+      "path": "Daily/2025-09-29.md"
     },
     {
       "basename": "Map Of Content (TEMPLATE)",
       "path": "Meta/Templates/Map Of Content (TEMPLATE).md"
     },
     {
-      "basename": "Daily Note (TEMPLATE)",
-      "path": "Meta/Templates/Daily Note (TEMPLATE).md"
-    },
-    {
       "basename": "New Note (TEMPLATE)",
       "path": "Meta/Templates/New Note (TEMPLATE).md"
+    },
+    {
+      "basename": "2025-09-28",
+      "path": "Daily/2025-09-28.md"
     },
     {
       "basename": "Software Development",
@@ -23,14 +27,6 @@
     {
       "basename": "Cybersecurity",
       "path": "Map Of Content/Cybersecurity.md"
-    },
-    {
-      "basename": "2025-09-29",
-      "path": "Daily/2025-09-29.md"
-    },
-    {
-      "basename": "2025-09-28",
-      "path": "Daily/2025-09-28.md"
     }
   ],
   "omittedPaths": [],

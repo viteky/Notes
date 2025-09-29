@@ -1,0 +1,19 @@
+{
+  "quickadd:choice:5fc9f852-aaa7-4f33-865f-dd47c3376872": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "file-explorer:new-file": [],
+  "quickadd:choice:3c2c85ec-6b19-415e-99ec-3bd460849d5e": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ]
+}

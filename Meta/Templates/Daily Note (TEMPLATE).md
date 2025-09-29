@@ -10,11 +10,9 @@ cssclasses:
 ## <% tp.date.now("dddd, MMMM Do, YYYY", 0, tp.file.title, "YYYYMMDD") %>
 ***
 ### Journal
-#### TIME
-Customize this template to your liking!
-...
+
+<% tp.file.cursor() %>
+
 ***
 ### Tasks
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
+- [ ] <% tp.file.cur

@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "f652c96bc556e0e0",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "a842a8d63195c238",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "4bc0d15e634d2623",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Map Of Content/C++.md",
+                "file": "Meta/Templates/Daily Note (TEMPLATE).md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "C++"
+              "title": "Daily Note (TEMPLATE)"
             }
           }
         ]
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Map Of Content/C++.md",
+                "file": "Meta/Templates/Map Of Content (TEMPLATE).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++"
+              "title": "Outline of Map Of Content (TEMPLATE)"
             }
           },
           {
@@ -157,9 +157,52 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "81b55abe0f7e24c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Meta/Templates/Map Of Content (TEMPLATE).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Map Of Content (TEMPLATE)"
+            }
+          },
+          {
+            "id": "1024cfb90320ea8e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Meta/Templates/Map Of Content (TEMPLATE).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Map Of Content (TEMPLATE)"
+            }
+          },
+          {
+            "id": "1e684250b366fbd2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -183,39 +226,43 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4bc0d15e634d2623",
+  "active": "8a09c4c0fb61a11d",
   "lastOpenFiles": [
-    "Meta/Templates/Map Of Content (TEMPLATE).md",
-    "Map Of Content/C++.md",
+    "Daily/2025-09-30.md",
     "Meta/Templates/Daily Note (TEMPLATE).md",
+    "Daily/2025-09-29.md",
+    "Meta/Templates/Map Of Content (TEMPLATE).md",
     "Meta/Templates/New Note (TEMPLATE).md",
+    "Daily/2025-09-28.md",
     "Map Of Content/Software Development.md",
+    "Map Of Content/Cybersecurity.md",
+    "Red Teaming.md",
+    "Map Of Content/Python.md",
+    "Permanent/Python - Variables and Data Types.md",
+    "Map Of Content/Untitled.md",
+    "CIA Triad.md",
+    "Fleeting/Test.md",
+    "Map Of Content/Test.md",
+    "Resources/Test.md",
+    "Literature/Test.md",
+    "Map Of Content/test.md",
+    "Map Of Content/C++.md",
     "null/Untitled.md",
     "null",
-    "Map Of Content/C++.md",
     "Areas/Untitled.md",
     "Permanent/C++.md",
     "Scala.md",
     "Daily/2025-10-01.md",
-    "Daily/2025-09-30.md",
-    "Map Of Content/Cybersecurity.md",
     "Map Of Content/Software Development",
-    "Red Teaming.md",
-    "Daily/2025-09-29.md",
-    "Daily/2025-09-28.md",
     "Daily/Untitled.md",
     "Meta/Templates",
     "Meta",
     "Resources/Templates/Untitled.md",
     "Resources/Templates",
-    "Hello.md",
     "Literature",
     "Map Of Content",
     "Archive",
     "Daily",
-    "Permanent",
-    "Test/Test.md",
-    "Test/Untitled.md",
-    "Welcome.md"
+    "Permanent"
   ]
 }
