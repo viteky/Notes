@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "f652c96bc556e0e0",
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "23819d1562566ced",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "fa612205a0824c27",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".trash/Hello.md",
+                "bFile": ".trash/Hello.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Hello"
             }
           }
         ]
@@ -115,6 +119,37 @@
         "type": "tabs",
         "children": [
           {
+            "id": "332c634e5cde2d52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7addd591ded45e69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
             "id": "d33da77427507009",
             "type": "leaf",
             "state": {
@@ -135,13 +170,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Templates/Map Of Content (TEMPLATE).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Map Of Content (TEMPLATE)"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "e9f2db9766f35a41",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -155,39 +199,7 @@
             }
           },
           {
-            "id": "81b55abe0f7e24c8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "1024cfb90320ea8e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Meta/Templates/Map Of Content (TEMPLATE).md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Map Of Content (TEMPLATE)"
-            }
-          },
-          {
-            "id": "1e684250b366fbd2",
+            "id": "759cb491e4581698",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -197,7 +209,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -220,43 +232,32 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "fa612205a0824c27",
   "lastOpenFiles": [
-    "Areas/MTHS130/Untitled 2.md",
-    "Areas/MTHS130/Untitled.md",
-    "Areas/MTHS130/Untitled 1.md",
     "Meta/Templates/New Note (TEMPLATE).md",
-    "Untitled.md",
     "Meta/Templates/Map Of Content (TEMPLATE).md",
     "Meta/Templates/Daily Note (TEMPLATE).md",
-    "Map Of Content/Software Development.md",
-    "Areas/MTHS130",
-    "Map Of Content/Operating Systems.md",
-    "Map Of Content/Cybersecurity.md",
-    "Map Of Content/Defensive Security.md",
-    "Map Of Content/Networking.md",
-    "Map Of Content/Offensive Security.md",
-    "Map Of Content/Untitled.md",
-    "Daily/2025-09-30.md",
-    "Daily/2025-09-29.md",
-    "Daily/2025-09-28.md",
-    "Red Teaming.md",
-    "Map Of Content/Python.md",
-    "Permanent/Python - Variables and Data Types.md",
-    "CIA Triad.md",
-    "Fleeting/Test.md",
-    "Map Of Content/Test.md",
-    "Resources/Test.md",
-    "Literature/Test.md",
-    "Map Of Content/test.md",
-    "null",
-    "Map Of Content/Software Development",
     "Meta/Templates",
     "Meta",
-    "Resources/Templates",
+    "Map Of Content/Software Development.md",
+    "Map Of Content/Operating Systems.md",
+    "Map Of Content/Offensive Security.md",
+    "Map Of Content/Networking.md",
+    "Map Of Content/Defensive Security.md",
+    "Map Of Content/Cybersecurity.md",
+    "Daily/2025-09-29.md",
+    "Hello.md",
+    "Daily/2025-09-28.md",
     "Literature",
     "Map Of Content",
     "Archive",
-    "Daily"
+    "Daily",
+    "Permanent",
+    "Fleeting",
+    "Resources",
+    "Areas",
+    "Test/Test.md",
+    "Test/Untitled.md",
+    "Welcome.md"
   ]
 }
