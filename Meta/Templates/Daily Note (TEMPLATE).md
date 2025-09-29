@@ -8,11 +8,13 @@ cssclasses:
 ---
 # DAILY NOTE
 ## <% tp.date.now("dddd, MMMM Do, YYYY", 0, tp.file.title, "YYYYMMDD") %>
+
+<% await tp.web.daily_quote() %>
 ***
 ### Journal
 
-<% tp.file.cursor() %>
+<% tp.file.cursor(0) %>
 
 ***
 ### Tasks
-- [ ] <% tp.file.cur
+- [ ] <% tp.file.cursor(1) %>
