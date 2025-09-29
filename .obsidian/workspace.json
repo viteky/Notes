@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "23819d1562566ced",
+        "id": "a842a8d63195c238",
         "type": "tabs",
         "children": [
           {
-            "id": "fa612205a0824c27",
+            "id": "4bc0d15e634d2623",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Templates/Daily Note.md",
+                "file": "Map Of Content/C++.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Daily Note"
+              "title": "C++"
             }
           }
         ]
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Templates/Daily Note.md",
+                "file": "Map Of Content/C++.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Daily Note"
+              "title": "Outline of C++"
             }
           },
           {
@@ -183,27 +183,37 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fa612205a0824c27",
+  "active": "4bc0d15e634d2623",
   "lastOpenFiles": [
-    "Meta/Templates/Map Of Content.md",
-    "Map Of Content/Untitled.md",
-    "Untitled.md",
-    "Meta/Templates/Daily Note.md",
-    "Daily/Untitled.md",
+    "Meta/Templates/Map Of Content (TEMPLATE).md",
+    "Map Of Content/C++.md",
+    "Meta/Templates/Daily Note (TEMPLATE).md",
+    "Meta/Templates/New Note (TEMPLATE).md",
+    "Map Of Content/Software Development.md",
+    "null/Untitled.md",
+    "null",
+    "Map Of Content/C++.md",
+    "Areas/Untitled.md",
+    "Permanent/C++.md",
+    "Scala.md",
+    "Daily/2025-10-01.md",
+    "Daily/2025-09-30.md",
+    "Map Of Content/Cybersecurity.md",
+    "Map Of Content/Software Development",
+    "Red Teaming.md",
     "Daily/2025-09-29.md",
+    "Daily/2025-09-28.md",
+    "Daily/Untitled.md",
     "Meta/Templates",
     "Meta",
     "Resources/Templates/Untitled.md",
     "Resources/Templates",
     "Hello.md",
-    "Daily/2025-09-28.md",
     "Literature",
     "Map Of Content",
     "Archive",
     "Daily",
     "Permanent",
-    "Fleeting",
-    "Resources",
     "Test/Test.md",
     "Test/Untitled.md",
     "Welcome.md"

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCog",
       "LiBook",
       "LiMap",
       "LiLink",
-      "LiBookmark",
-      "LiKanban"
+      "LiBookmark"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,6 @@
   "Areas": "LiBox",
   "Resources": "LiLink",
   "Map Of Content": "LiMap",
-  "Literature": "LiBook"
+  "Literature": "LiBook",
+  "Meta": "LiCog"
 }

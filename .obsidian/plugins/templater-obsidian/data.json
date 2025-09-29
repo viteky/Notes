@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "",
+  "templates_folder": "Meta/Templates",
   "templates_pairs": [
     [
       "",
@@ -8,19 +8,23 @@
     ]
   ],
   "trigger_on_file_creation": true,
-  "auto_jump_to_cursor": false,
+  "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
   "enable_folder_templates": true,
   "folder_templates": [
     {
+      "folder": "/",
+      "template": "Meta/Templates/New Note (TEMPLATE).md"
+    },
+    {
       "folder": "Daily",
-      "template": "Meta/Templates/Daily Note.md"
+      "template": "Meta/Templates/Daily Note (TEMPLATE).md"
     },
     {
       "folder": "Map Of Content",
-      "template": "Meta/Templates/Map Of Content.md"
+      "template": "Meta/Templates/Map Of Content (TEMPLATE).md"
     }
   ],
   "enable_file_templates": false,
