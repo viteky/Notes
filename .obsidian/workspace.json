@@ -11,14 +11,14 @@
             "id": "fa612205a0824c27",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "Meta/Templates/Daily Note.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "icon": "lucide-file",
+              "title": "Daily Note"
             }
           }
         ]
@@ -119,37 +119,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "332c634e5cde2d52",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "7addd591ded45e69",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
             "id": "d33da77427507009",
             "type": "leaf",
             "state": {
@@ -170,22 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Meta/Templates/Daily Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "e9f2db9766f35a41",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "title": "Outline of Daily Note"
             }
           },
           {
@@ -194,36 +154,17 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
-            }
-          },
-          {
-            "id": "759cb491e4581698",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "7866d15a12651a34",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,8 +183,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7866d15a12651a34",
+  "active": "fa612205a0824c27",
   "lastOpenFiles": [
+    "Meta/Templates/Map Of Content.md",
+    "Map Of Content/Untitled.md",
+    "Untitled.md",
+    "Meta/Templates/Daily Note.md",
+    "Daily/Untitled.md",
+    "Daily/2025-09-29.md",
+    "Meta/Templates",
+    "Meta",
+    "Resources/Templates/Untitled.md",
+    "Resources/Templates",
     "Hello.md",
     "Daily/2025-09-28.md",
     "Literature",
@@ -253,10 +204,7 @@
     "Permanent",
     "Fleeting",
     "Resources",
-    "Areas",
-    "Projects",
     "Test/Test.md",
-    "Books",
     "Test/Untitled.md",
     "Welcome.md"
   ]
