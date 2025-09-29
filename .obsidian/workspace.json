@@ -160,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Templates/Map Of Content (TEMPLATE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Map Of Content (TEMPLATE)"
+              "title": "Backlinks"
             }
           },
           {
@@ -198,12 +197,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,41 +222,41 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Meta/Templates/Daily Note (TEMPLATE).md",
+    "Areas/MTHS130/Untitled 2.md",
+    "Areas/MTHS130/Untitled.md",
+    "Areas/MTHS130/Untitled 1.md",
     "Meta/Templates/New Note (TEMPLATE).md",
+    "Untitled.md",
     "Meta/Templates/Map Of Content (TEMPLATE).md",
+    "Meta/Templates/Daily Note (TEMPLATE).md",
     "Map Of Content/Software Development.md",
+    "Areas/MTHS130",
+    "Map Of Content/Operating Systems.md",
     "Map Of Content/Cybersecurity.md",
+    "Map Of Content/Defensive Security.md",
+    "Map Of Content/Networking.md",
+    "Map Of Content/Offensive Security.md",
+    "Map Of Content/Untitled.md",
     "Daily/2025-09-30.md",
     "Daily/2025-09-29.md",
     "Daily/2025-09-28.md",
     "Red Teaming.md",
     "Map Of Content/Python.md",
     "Permanent/Python - Variables and Data Types.md",
-    "Map Of Content/Untitled.md",
     "CIA Triad.md",
     "Fleeting/Test.md",
     "Map Of Content/Test.md",
     "Resources/Test.md",
     "Literature/Test.md",
     "Map Of Content/test.md",
-    "Map Of Content/C++.md",
-    "null/Untitled.md",
     "null",
-    "Areas/Untitled.md",
-    "Permanent/C++.md",
-    "Scala.md",
-    "Daily/2025-10-01.md",
     "Map Of Content/Software Development",
-    "Daily/Untitled.md",
     "Meta/Templates",
     "Meta",
-    "Resources/Templates/Untitled.md",
     "Resources/Templates",
     "Literature",
     "Map Of Content",
     "Archive",
-    "Daily",
-    "Permanent"
+    "Daily"
   ]
 }

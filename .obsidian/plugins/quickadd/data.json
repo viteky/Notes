@@ -31,6 +31,36 @@
       },
       "fileExistsMode": "Append to the bottom of the file",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "51a5066a-5c2f-46a3-b1b2-b054355fdee7",
+      "name": "Create New MOC",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Meta/Templates/Map Of Content (TEMPLATE).md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Map Of Content"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "inputPrompt": "single-line",

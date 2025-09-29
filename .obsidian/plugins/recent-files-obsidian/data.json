@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Daily Note (TEMPLATE)",
-      "path": "Meta/Templates/Daily Note (TEMPLATE).md"
-    },
-    {
       "basename": "New Note (TEMPLATE)",
       "path": "Meta/Templates/New Note (TEMPLATE).md"
     },
@@ -13,12 +9,32 @@
       "path": "Meta/Templates/Map Of Content (TEMPLATE).md"
     },
     {
+      "basename": "Daily Note (TEMPLATE)",
+      "path": "Meta/Templates/Daily Note (TEMPLATE).md"
+    },
+    {
       "basename": "Software Development",
       "path": "Map Of Content/Software Development.md"
     },
     {
+      "basename": "Operating Systems",
+      "path": "Map Of Content/Operating Systems.md"
+    },
+    {
       "basename": "Cybersecurity",
       "path": "Map Of Content/Cybersecurity.md"
+    },
+    {
+      "basename": "Defensive Security",
+      "path": "Map Of Content/Defensive Security.md"
+    },
+    {
+      "basename": "Networking",
+      "path": "Map Of Content/Networking.md"
+    },
+    {
+      "basename": "Offensive Security",
+      "path": "Map Of Content/Offensive Security.md"
     },
     {
       "basename": "2025-09-29",

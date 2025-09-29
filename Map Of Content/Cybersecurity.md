@@ -1,10 +1,14 @@
-## Offensive Security
+# Cybersecurity
+## [[Offensive Security]]
 
-- [[Red Teaming]]
+## [[Defensive Security]]
 
-## Defensive Security
-
-- [[Blue Teaming]]
-
+## Cryptography 
+- [[Public keys]]
+- [[Hashing]]
 ## General Concepts
 - [[CIA Triad]]
+## Fundamentals
+- [[Search skills]]
+- [[Careers in Cyber]]
+
