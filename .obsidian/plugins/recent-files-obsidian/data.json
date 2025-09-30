@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Defensive Security",
+      "path": "Map Of Content/Defensive Security.md"
+    },
+    {
+      "basename": "2025-09-28",
+      "path": "Daily/2025-09-28.md"
+    },
+    {
       "basename": "New Note (TEMPLATE)",
       "path": "Meta/Templates/New Note (TEMPLATE).md"
     },
@@ -25,10 +33,6 @@
       "path": "Map Of Content/Cybersecurity.md"
     },
     {
-      "basename": "Defensive Security",
-      "path": "Map Of Content/Defensive Security.md"
-    },
-    {
       "basename": "Networking",
       "path": "Map Of Content/Networking.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "2025-09-29",
       "path": "Daily/2025-09-29.md"
-    },
-    {
-      "basename": "2025-09-28",
-      "path": "Daily/2025-09-28.md"
     }
   ],
   "omittedPaths": [],
