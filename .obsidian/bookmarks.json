@@ -2,55 +2,6 @@
   "items": [
     {
       "type": "graph",
-      "ctime": 1759145616871,
-      "title": "Zettelkasten",
-      "options": {
-        "collapse-filter": false,
-        "search": "-path:Daily -path:Meta -path:Archive",
-        "showTags": false,
-        "showAttachments": false,
-        "hideUnresolved": false,
-        "showOrphans": false,
-        "collapse-color-groups": false,
-        "colorGroups": [
-          {
-            "query": "Cybersecurity",
-            "color": {
-              "a": 1,
-              "rgb": 14701138
-            }
-          },
-          {
-            "query": "Software Development",
-            "color": {
-              "a": 1,
-              "rgb": 14725458
-            }
-          },
-          {
-            "query": "Operating Systems",
-            "color": {
-              "a": 1,
-              "rgb": 5431378
-            }
-          }
-        ],
-        "collapse-display": true,
-        "showArrow": false,
-        "textFadeMultiplier": 0,
-        "nodeSizeMultiplier": 1,
-        "lineSizeMultiplier": 1,
-        "collapse-forces": true,
-        "centerStrength": 0.518713248970312,
-        "repelStrength": 10,
-        "linkStrength": 1,
-        "linkDistance": 250,
-        "scale": 0.5517575066436916,
-        "close": false
-      }
-    },
-    {
-      "type": "graph",
       "ctime": 1759146228782,
       "title": "PARA",
       "options": {
@@ -73,6 +24,69 @@
         "linkStrength": 1,
         "linkDistance": 250,
         "scale": 0.5517575066436916,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1759210767243,
+      "title": "Zettelkasten",
+      "options": {
+        "collapse-filter": false,
+        "search": "-path:Daily -path:Meta -path:Archive",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": false,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "file:Cybersecurity",
+            "color": {
+              "a": 1,
+              "rgb": 10027263
+            }
+          },
+          {
+            "query": "file:Software Development",
+            "color": {
+              "a": 1,
+              "rgb": 14725458
+            }
+          },
+          {
+            "query": "file:Operating Systems",
+            "color": {
+              "a": 1,
+              "rgb": 5431378
+            }
+          },
+          {
+            "query": "file:Defensive Security",
+            "color": {
+              "a": 1,
+              "rgb": 262399
+            }
+          },
+          {
+            "query": "file:Offensive Security",
+            "color": {
+              "a": 1,
+              "rgb": 16711680
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.5517575066436917,
         "close": false
       }
     }

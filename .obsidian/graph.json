@@ -8,24 +8,38 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "Cybersecurity",
+      "query": "file:Cybersecurity",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 10027263
       }
     },
     {
-      "query": "Software Development",
+      "query": "file:Software Development",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "Operating Systems",
+      "query": "file:Operating Systems",
       "color": {
         "a": 1,
         "rgb": 5431378
+      }
+    },
+    {
+      "query": "file:Defensive Security",
+      "color": {
+        "a": 1,
+        "rgb": 262399
+      }
+    },
+    {
+      "query": "file:Offensive Security",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     }
   ],
@@ -34,11 +48,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.848470052083333,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.5517575066436916,
-  "close": true
+  "linkDistance": 30,
+  "scale": 0.30033874511718756,
+  "close": false
 }
