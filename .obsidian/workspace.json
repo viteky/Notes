@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent/OSI Model.md",
-                "mode": "source",
-                "source": false
+                "file": "Daily/2025-10-07.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "OSI Model"
+              "title": "2025-10-07"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Map Of Content/Cybersecurity.md",
+                "file": "Map Of Content/Operating Systems.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Cybersecurity"
+              "title": "Operating Systems"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,25 +188,6 @@
             }
           },
           {
-            "id": "81b55abe0f7e24c8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Map Of Content/Cybersecurity.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Cybersecurity"
-            }
-          },
-          {
             "id": "1024cfb90320ea8e",
             "type": "leaf",
             "state": {
@@ -231,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -255,31 +236,32 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "3699b4c4adeea5ae",
+  "active": "62b3ce3b9cc242a1",
   "lastOpenFiles": [
-    "Map Of Content/Offensive Security.md",
-    "Map Of Content/Cybersecurity.md",
     "Map Of Content/Networking.md",
-    "Map Of Content/Defensive Security.md",
-    "Home.md",
-    "Permanent/OSI Model.md",
     "Map Of Content/Software Development.md",
+    "Map Of Content/Operating Systems.md",
+    "Map Of Content/Offensive Security.md",
+    "Map Of Content/Defensive Security.md",
+    "Map Of Content/Cybersecurity.md",
+    "Permanent/OSI Model.md",
+    "Daily/2025-10-07.md",
+    "Daily/2025-09-29.md",
+    "Daily/2025-09-28.md",
+    "Home.md",
+    "Permanent/Untitled.md",
     "Meta/Templates/New Note (TEMPLATE).md",
     "Meta/Templates/Daily Note (TEMPLATE).md",
     "Meta/Templates/Map Of Content (TEMPLATE).md",
-    "Map Of Content/Operating Systems.md",
     "Resources/Flashcards/Networking.md",
     "Resources/Flashcards/Cybersecurity.md",
     "Resources/Flashcards.md",
     "Resources/Flashcards",
     "Untitled.base",
-    "Daily/2025-10-07.md",
     "Resources/Networking/OSI Model.md",
     "Resources/Networking",
-    "Daily/2025-09-28.md",
     "Excalidraw/Drawing 2025-10-07 16.30.52.excalidraw.md",
     "Excalidraw",
-    "Permanent/Untitled.md",
     "conflict-files-obsidian-git.md",
     "Untitled.canvas",
     "Projects/MTHS130/Assessment 9",
@@ -292,7 +274,6 @@
     "Areas/MTHS130/Untitled.md",
     "Areas/MTHS130/Untitled 1.md",
     "Map Of Content/Untitled.md",
-    "Daily/2025-09-30.md",
-    "Daily/2025-09-29.md"
+    "Daily/2025-09-30.md"
   ]
 }

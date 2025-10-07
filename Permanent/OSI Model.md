@@ -54,6 +54,8 @@ What is the 1st layer of the OSI model?::Physical
 <!--SR:!2025-10-11,4,270-->
 What does MAC stand for?::Media Access Control
 
+
 [[Networking]]
+[[Offensive Security]]
 
 

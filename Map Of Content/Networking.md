@@ -1,9 +1,7 @@
 # Networking
-
 ```dataview
 list from [[]] and !outgoing([[]])
 ```
-
 ## Fundamentals
 - [[OSI Model]]
 - [[TCP/IP Stack]]
@@ -17,6 +15,6 @@ list from [[]] and !outgoing([[]])
 
 ## Tools
 
-###### Related
+## Related
 - [[Cybersecurity]]
 
