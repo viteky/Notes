@@ -1,4 +1,9 @@
 # Software Development
+
+```dataview
+list from [[]] and !outgoing([[]])
+```
+
 ## Programming Languages
 - [[Python]]
 - [[Java]]

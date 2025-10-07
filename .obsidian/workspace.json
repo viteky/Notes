@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Templates/Daily Note (TEMPLATE).md",
-                "mode": "source",
-                "source": false
+                "file": "Home.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Daily Note (TEMPLATE)"
+              "title": "Home"
             }
           }
         ],
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Templates/Daily Note (TEMPLATE).md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Daily Note (TEMPLATE)"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -235,7 +235,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,17 +257,20 @@
   },
   "active": "3699b4c4adeea5ae",
   "lastOpenFiles": [
-    "Meta/Templates/Map Of Content (TEMPLATE).md",
+    "Map Of Content/Cybersecurity.md",
+    "Home.md",
+    "Map Of Content/Software Development.md",
     "Meta/Templates/New Note (TEMPLATE).md",
     "Meta/Templates/Daily Note (TEMPLATE).md",
-    "Permanent/OSI Model.md",
+    "Meta/Templates/Map Of Content (TEMPLATE).md",
+    "Map Of Content/Defensive Security.md",
+    "Map Of Content/Operating Systems.md",
+    "Map Of Content/Offensive Security.md",
     "Map Of Content/Networking.md",
+    "Permanent/OSI Model.md",
     "Resources/Flashcards/Networking.md",
     "Resources/Flashcards/Cybersecurity.md",
-    "Map Of Content/Offensive Security.md",
     "Resources/Flashcards.md",
-    "Map Of Content/Cybersecurity.md",
-    "Map Of Content/Defensive Security.md",
     "Resources/Flashcards",
     "Untitled.base",
     "Daily/2025-10-07.md",
@@ -275,8 +279,6 @@
     "Daily/2025-09-28.md",
     "Excalidraw/Drawing 2025-10-07 16.30.52.excalidraw.md",
     "Excalidraw",
-    "Map Of Content/Software Development.md",
-    "Map Of Content/Operating Systems.md",
     "Permanent/Untitled.md",
     "conflict-files-obsidian-git.md",
     "Untitled.canvas",
@@ -289,7 +291,6 @@
     "Areas/MTHS130/Untitled 2.md",
     "Areas/MTHS130/Untitled.md",
     "Areas/MTHS130/Untitled 1.md",
-    "Untitled.md",
     "Map Of Content/Untitled.md",
     "Daily/2025-09-30.md",
     "Daily/2025-09-29.md"

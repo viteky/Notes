@@ -1,4 +1,10 @@
-# Offensive Security
+# Offensive 
+
+```dataview
+list from [[]] and !outgoing([[]])
+```
+
+Security
 - [[Red Teaming]]
 - [[Web Hacking]]
 - [[Pentesting]]

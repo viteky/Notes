@@ -1,4 +1,10 @@
 # Cybersecurity
+
+
+```dataview
+list from [[]] and !outgoing([[]])
+```
+
 ## [[Offensive Security]]
 
 ## [[Defensive Security]]
@@ -11,4 +17,7 @@
 ## Fundamentals
 - [[Search skills]]
 - [[Careers in Cyber]]
+
+
+[[Home]]
 

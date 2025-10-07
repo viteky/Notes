@@ -1,4 +1,9 @@
 # Networking
+
+```dataview
+list from [[]] and !outgoing([[]])
+```
+
 ## Fundamentals
 - [[OSI Model]]
 - [[TCP/IP Stack]]
