@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Map Of Content/Cybersecurity.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Cybersecurity"
             }
           }
         ],
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Map Of Content/Cybersecurity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Cybersecurity"
             }
           },
           {
@@ -257,17 +257,17 @@
   },
   "active": "3699b4c4adeea5ae",
   "lastOpenFiles": [
+    "Map Of Content/Offensive Security.md",
     "Map Of Content/Cybersecurity.md",
+    "Map Of Content/Networking.md",
+    "Map Of Content/Defensive Security.md",
     "Home.md",
+    "Permanent/OSI Model.md",
     "Map Of Content/Software Development.md",
     "Meta/Templates/New Note (TEMPLATE).md",
     "Meta/Templates/Daily Note (TEMPLATE).md",
     "Meta/Templates/Map Of Content (TEMPLATE).md",
-    "Map Of Content/Defensive Security.md",
     "Map Of Content/Operating Systems.md",
-    "Map Of Content/Offensive Security.md",
-    "Map Of Content/Networking.md",
-    "Permanent/OSI Model.md",
     "Resources/Flashcards/Networking.md",
     "Resources/Flashcards/Cybersecurity.md",
     "Resources/Flashcards.md",

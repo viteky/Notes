@@ -6,7 +6,7 @@ tags:
 ---
 
 ```dataview
-LIST FROM "Map Of Content"
+TABLE without ID file.link as "Map Of Content"
+FROM "Map Of Content"
 SORT file.name ASC
 ```
-

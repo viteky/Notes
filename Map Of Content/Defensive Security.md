@@ -1,11 +1,10 @@
 
-# Defensive 
+# Defensive Security
 
 ```dataview
 list from [[]] and !outgoing([[]])
 ```
 
-Security
 - [[Blue Teaming]]
 - [[SOC]]
 - [[Digital Forensics]]

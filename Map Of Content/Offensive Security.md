@@ -1,10 +1,9 @@
-# Offensive 
+# Offensive Security
 
 ```dataview
 list from [[]] and !outgoing([[]])
 ```
 
-Security
 - [[Red Teaming]]
 - [[Web Hacking]]
 - [[Pentesting]]
@@ -16,3 +15,4 @@ Security
 - [[Burp Suite]]
 ## Related
 - [[Cybersecurity]]
+
