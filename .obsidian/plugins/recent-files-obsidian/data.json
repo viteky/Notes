@@ -1,36 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Defensive Security",
-      "path": "Map Of Content/Defensive Security.md"
-    },
-    {
-      "basename": "2025-09-28",
-      "path": "Daily/2025-09-28.md"
-    },
-    {
-      "basename": "New Note (TEMPLATE)",
-      "path": "Meta/Templates/New Note (TEMPLATE).md"
+      "basename": "Daily Note (TEMPLATE)",
+      "path": "Meta/Templates/Daily Note (TEMPLATE).md"
     },
     {
       "basename": "Map Of Content (TEMPLATE)",
       "path": "Meta/Templates/Map Of Content (TEMPLATE).md"
     },
     {
-      "basename": "Daily Note (TEMPLATE)",
-      "path": "Meta/Templates/Daily Note (TEMPLATE).md"
+      "basename": "New Note (TEMPLATE)",
+      "path": "Meta/Templates/New Note (TEMPLATE).md"
     },
     {
-      "basename": "Software Development",
-      "path": "Map Of Content/Software Development.md"
-    },
-    {
-      "basename": "Operating Systems",
-      "path": "Map Of Content/Operating Systems.md"
-    },
-    {
-      "basename": "Cybersecurity",
-      "path": "Map Of Content/Cybersecurity.md"
+      "basename": "OSI Model",
+      "path": "Permanent/OSI Model.md"
     },
     {
       "basename": "Networking",
@@ -39,6 +23,30 @@
     {
       "basename": "Offensive Security",
       "path": "Map Of Content/Offensive Security.md"
+    },
+    {
+      "basename": "Cybersecurity",
+      "path": "Map Of Content/Cybersecurity.md"
+    },
+    {
+      "basename": "Defensive Security",
+      "path": "Map Of Content/Defensive Security.md"
+    },
+    {
+      "basename": "2025-10-07",
+      "path": "Daily/2025-10-07.md"
+    },
+    {
+      "basename": "2025-09-28",
+      "path": "Daily/2025-09-28.md"
+    },
+    {
+      "basename": "Software Development",
+      "path": "Map Of Content/Software Development.md"
+    },
+    {
+      "basename": "Operating Systems",
+      "path": "Map Of Content/Operating Systems.md"
     },
     {
       "basename": "2025-09-29",
